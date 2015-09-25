@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
     background: rgb(215, 215, 215);
-    font-size: 100%;
     background: radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
     margin: 0;
     padding: 0;
@@ -13,10 +12,6 @@ body {
 h1 {
     font-family: "SourceSansPro", Helvetica, sans-serif;
     line-height: 1;
-}
-
-td {
-    padding: 0 1em 0 1em;
 }
 
 .step {
@@ -48,8 +43,8 @@ td {
     color: rgb(102, 102, 102);
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 30px;
+    line-height: 36px;
     letter-spacing: -1px;
 }
 
