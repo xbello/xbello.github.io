@@ -1,4 +1,4 @@
 Esto es un archivo de prueba
 ============================
 
-Escrito en reST.
+Escrito en reST. Ou algo parecido.
